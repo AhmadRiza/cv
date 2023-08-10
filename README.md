@@ -45,7 +45,7 @@ Multi payment platform for warungs and medium and micro business.
 - Initiated and developed the cashier feature that can be used in offline mode and automatically synced when online
 - Developed the merchant feature to restock warungs and implemented Google Maps SDK to handle delivery process
 - Developed the train e-ticket booker feature and created a dynamic seat layout picker
-- **_Technologies used:_** Kotlin, Java, MVVM, Hilt, GraphQL, Coroutine, Room, Googl Maps SDK, Firebase Cloud Messaging, Bitbucket, Gitflow development
+- **_Technologies used:_** Kotlin, Java, MVVM, Hilt, GraphQL, Coroutine, Room, Google Maps SDK, Firebase Cloud Messaging, Bitbucket, Gitflow development
 <br><br>
 
 ## 🛠️ Project Based Experience
@@ -53,7 +53,7 @@ Multi payment platform for warungs and medium and micro business.
 **Solo Android Developer** @ [Pijat Syariah 354](https://pijatsyariah354.com/) _(January 2022 - March 2022)_<br>
 Build online massage booking application for client and massager from a scratch:
   - **Pijat Syariah 354** _released at_ [Playstore](https://play.google.com/store/apps/details?id=com.pijatsyariah354.android)
-  - **Pijat Syariah 354** Admin _(internal release)_
+  - **Pijat Syariah 354 Admin** _(internal release)_
 
 **IT Staff Intern** @ [Perpustakaan Pusat UIN Maulana Malik Ibrahim Malang](https://library.uin-malang.ac.id/)
 Built [M-library UIN Malang](https://play.google.com/store/apps/details?id=id.ac.uin_malang.library.m_library), a book catalog app for students to search for books and track lending deadlines
@@ -72,7 +72,7 @@ Built an online catering market place.
 
 ## 👨🏼‍🎓 Education
 
-**Bachelor of Engineering** in Informatic Engineering<br>
+**Bachelor of Computer Science** in Informatic Engineering<br>
 [Islamic State University of Maulana Malik Ibrahim Malang](https://www.uin-malang.ac.id/) - Malang, Indonesia _(2016 - 2020)_<br>
 Best graduate of Informatic Engineering Major with 3.80/4.00 GPA
 
