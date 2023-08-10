@@ -65,9 +65,9 @@ Built [Tentilex](https://workwithcarolyn.com/blog/tentilex), a wearable armband 
 
 ## 💬 Languages
 
-🇮🇩 **Bahasa Indonesia**: Native
-🇮🇩 **Javanese**: Bilingual Native
-🇺🇸 **English**: TOEFL Score 535 <br>
+🇮🇩 **Bahasa Indonesia**: Native <br>
+🇮🇩 **Javanese**: Bilingual Native <br>
+🇺🇸 **English**: TOEFL Score 535
 <br><br>
 
 ## 👩🏼‍🎓 Education
