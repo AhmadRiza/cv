@@ -1,7 +1,4 @@
-<img src="https://i.ibb.co/nQ5wRXK/Copy-of-IMG-7444.png" width="200">
-
 # Ahmad Riza
-
 _Android engineer based in Indonesia 🇮🇩_ <br>
 
 [Whatsapp](https://wa.me/62895359672090) / [Email](mailto:riza.public@gmail.com) / [LinkedIn](https://www.linkedin.com/in/ahmadriza/) / [GitHub](https://github.com/ahmadriza/) / [Website](https://ahmadriza.github.io/) 
@@ -69,7 +66,7 @@ Built an online catering market place.
 
 🇮🇩 **Bahasa Indonesia**: Native <br>
 🇮🇩 **Javanese**: Bilingual Native <br>
-🇺🇸 **English**: TOEFL Score 535
+🇺🇸 **English**: Intermediate
 <br><br>
 
 ## 👨🏼‍🎓 Education
