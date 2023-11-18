@@ -7,13 +7,13 @@ _Android engineer based in Indonesia 🇮🇩_ <br>
 
 **Android Engineer** @ [Kitabisa](https://kitabisa.com/) _(May 2021 - Present)_ <br>
 Crowdfunding platform that enable ~500K daily active users to share their kindness.
-  - Worked with the product team as a Project Information Coordinator (PIC) to understand requirements and provide technical solutions in QRIS payment, campaign RAB, and auto debit top up features for [Kitabisa](https://play.google.com/store/apps/details?id=com.kitabisa.android) App
+  - Worked with the product team as a Project Information Coordinator (PIC) to understand requirements and provide technical solutions in QRIS payment, campaign RAB, auto top up wallet, and insurance integration features for [Kitabisa](https://play.google.com/store/apps/details?id=com.kitabisa.android) App
   - Integrated CI/CD pipelines to automate builds and deployments in Github Action, Codemagic, and Bitrise
-  - Researched and implemented Jetpack Compose into the production feature
-  - Maintain a 99% crash-free user percentage
+  - Migrated some common UI component to Jetpack Compose
+  - Experimented with and introduce unit test framework with Kotest
   - Experimented with and implemented the Gradle dependency catalog to speed up the build time
-  - Maintained code reliability by keeping up with Android SDK changes and updating the code accordingly
-  - Experimented with Dark mode
+  - Migrated the project SDK to target Android 13 and Android 14
+  - Experimented with and implemented Dark mode theme option
   - **_Technologies used:_** Kotlin, MVI, Dagger, Jetpack Compose, Kotest, Espresso, Detekt, Modularize, Room, Coroutine + Flow, Github Action + Codemagic CI, Github, Trunkbased development
 <br><br>
 
@@ -39,7 +39,7 @@ Social media, webtoon and novels platform.
 
 **Android Engineer** @ [Deliv](https://deliv.co.id/) _(February 2019 - November 2020)_ <br>
 Multi payment platform for warungs and medium and micro business.
-- Led the development of the [Kios Deliv](https://play.google.com/store/apps/details?id=id.co.deliv.kios) app to transform the company's business model from ride-hailing to multi-payment.
+- Independently developed the [Kios Deliv Android app](https://play.google.com/store/apps/details?id=id.co.deliv.kios) to contribute to the company's business model transformation into a multi-payment service.
 - Created custom Bluetooth printer drivers to handle printing of custom payment invoices across multiple device types
 - Initiated and developed the cashier feature that can be used in offline mode and automatically synced when online
 - Developed the merchant feature to restock warungs and implemented Google Maps SDK to handle delivery process
