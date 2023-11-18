@@ -10,11 +10,11 @@ Crowdfunding platform that enable ~500K daily active users to share their kindne
   - Worked with the product team as a Project Information Coordinator (PIC) to understand requirements and provide technical solutions in QRIS payment, campaign RAB, auto top up wallet, and insurance integration features for [Kitabisa](https://play.google.com/store/apps/details?id=com.kitabisa.android) App
   - Integrated CI/CD pipelines to automate builds and deployments in Github Action, Codemagic, and Bitrise
   - Migrated some common UI component to Jetpack Compose
-  - Experimented with and introduce unit test framework with Kotest
+  - Introduce unit test framework with Kotest
   - Experimented with and implemented the Gradle dependency catalog to speed up the build time
   - Migrated the project SDK to target Android 13 and Android 14
-  - Experimented with and implemented Dark mode theme option
-  - **_Technologies used:_** Kotlin, MVI, Dagger, Jetpack Compose, Kotest, Espresso, Detekt, Modularize, Room, Coroutine + Flow, Github Action + Codemagic CI, Github, Trunkbased development
+  - Initiate Dark mode feature implementation
+  - **_Technologies used:_** Kotlin, MVI, Dagger, Jetpack Compose, Kotest, Espresso, Detekt, Modularize, Room, Coroutine, Github Action + Codemagic CI, Github, Trunkbased development
 <br><br>
 
 **IOS Engineer (Part-time)** @ [Klikfilm](https://klikfilm.com/) _(July 2022 - January 2023)_ <br>
@@ -34,7 +34,7 @@ Social media, webtoon and novels platform.
 - Experimented with the Jetpack Navigation component to create features with a single-activity architecture.
 - Experimented with Hilt to integrate dependency injection into the app.
 - Developed movie streaming feature in [Kwikku](https://www.kwikku.com/post/1470662) IOS app
-- **_Technologies used:_** Java, Kotlin, RxJava, MVP, MVVM, Work Manager, Hilt, Gitlab, Gitflow development,
+- **_Technologies used:_** Java, Kotlin, RxJava, MVP, MVVM, C Work Manager, Hilt, Gitlab, Gitflow development
 <br><br>
 
 **Android Engineer** @ [Deliv](https://deliv.co.id/) _(February 2019 - November 2020)_ <br>
