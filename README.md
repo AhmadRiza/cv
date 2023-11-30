@@ -10,10 +10,10 @@ Crowdfunding platform that enable ~500K daily active users to share their kindne
   - Worked with the product team as a Project Information Coordinator (PIC) to understand requirements and provide technical solutions in QRIS payment, campaign RAB, auto top up wallet, and insurance integration features for [Kitabisa](https://play.google.com/store/apps/details?id=com.kitabisa.android) App
   - Integrated CI/CD pipelines to automate builds and deployments in Github Action, Codemagic, and Bitrise
   - Migrated some common UI component to Jetpack Compose
-  - Introduce unit test framework with Kotest
+  - Introduced unit test framework with Kotest
   - Experimented with and implemented the Gradle dependency catalog to speed up the build time
   - Migrated the project SDK to target Android 13 and Android 14
-  - Initiate Dark mode feature implementation
+  - Initiated Dark mode feature implementation
   - **_Technologies used:_** Kotlin, MVI, Dagger, Jetpack Compose, Kotest, Espresso, Detekt, Modularize, Room, Coroutine, Github Action + Codemagic CI, Github, Trunkbased development
 <br><br>
 
