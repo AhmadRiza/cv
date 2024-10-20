@@ -1,7 +1,7 @@
 # Ahmad Riza
 _Android engineer based in Indonesia 🇮🇩_ <br>
 
-[Whatsapp](https://wa.me/62895359672090) / [Email](mailto:riza.public@gmail.com) / [LinkedIn](https://www.linkedin.com/in/ahmadriza/) / [GitHub](https://github.com/ahmadriza/) / [Website](https://ahmadriza.github.io/) 
+[Email](mailto:riza.public@gmail.com) / [LinkedIn](https://www.linkedin.com/in/ahmadriza/) / [GitHub](https://github.com/ahmadriza/) / [Website](https://ahmadriza.github.io/) 
 
 ## 👨🏽‍💻 Engineering Experience
 
