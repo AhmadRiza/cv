@@ -1,20 +1,34 @@
 # Ahmad Riza
-_Android engineer based in Indonesia 🇮🇩_ <br>
+_Mobile engineer based in Indonesia 🇮🇩_ <br>
 
 [Email](mailto:riza.public@gmail.com) / [LinkedIn](https://www.linkedin.com/in/ahmadriza/) / [GitHub](https://github.com/ahmadriza/) / [Website](https://ahmadriza.github.io/) 
 
 ## 👨🏽‍💻 Engineering Experience
 
-**Android Engineer** @ [Kitabisa](https://kitabisa.com/) _(May 2021 - Present)_ <br>
+**Mobile Engineer** @ [JULO](https://julo.co.id/) _(Februari 2024 - Present)_ <br>
+Fintech to enable financial inclusion for Indonesia
+- Optimized Android app download size to reduce it by approximately 38.9%
+- Designed new MVI architecture with its unit test template for JULO Android app
+- Restructured Dagger dependency injection to introduce loose coupling -- API base modules
+- Developed an APK distribution system utilizing Firebase and Slack bot alert within CircleCI
+- Implemented APK size change in Github PR report using Emerge Tools
+- One of the most significant contributors to JULO iOS app development
+- Implemented JULO iOS app network layer authentication system using Swift concurrency for token refreshing
+- Developed a deeplink redirection system for JULO Android and iOS apps, utilizing Appsflyer One Link
+- Initiated a unit test framework for the JULO iOS app using SwiftMock
+- **_Technologies used :_** Kotlin, MVI, Dagger, Jetpack Compose, Coroutine, Circle CI, Github, Firebase app distribution, Swift, Swift UI, Factory, SwiftMock, Core Data, Core Network
+<br><br>
+
+**Android Engineer** @ [Kitabisa](https://kitabisa.com/) _(May 2021 - February 2024)_ <br>
 Crowdfunding platform that enable ~500K daily active users to share their kindness.
-  - Worked with the product team as a Project Information Coordinator (PIC) to understand requirements and provide technical solutions in QRIS payment, campaign RAB, auto top up wallet, and insurance integration features for [Kitabisa](https://play.google.com/store/apps/details?id=com.kitabisa.android) App
-  - Integrated CI/CD pipelines to automate builds and deployments in Github Action, Codemagic, and Bitrise
-  - Migrated some common UI component to Jetpack Compose
-  - Introduced unit test framework with Kotest
-  - Experimented with and implemented the Gradle dependency catalog to speed up the build time
-  - Migrated the project SDK to target Android 13 and Android 14
-  - Initiated Dark mode feature implementation
-  - **_Technologies used:_** Kotlin, MVI, Dagger, Jetpack Compose, Kotest, Espresso, Detekt, Modularize, Room, Coroutine, Github Action + Codemagic CI, Github, Trunkbased development
+- Worked with the product team as a Project Information Coordinator (PIC) to understand requirements and provide technical solutions in QRIS payment, campaign RAB, auto top up wallet, and insurance integration features for [Kitabisa](https://play.google.com/store/apps/details?id=com.kitabisa.android) App
+- Integrated CI/CD pipelines to automate builds and deployments in Github Action, Codemagic, and Bitrise
+- Migrated common UI components to Jetpack Compose
+- Introduced unit test framework with Kotest
+- Experimented with and implemented the Gradle dependency catalog to speed up the build time
+- Migrated the project SDK to target Android 13 and Android 14
+- Initiated Dark mode feature implementation
+- **_Technologies used:_** Kotlin, MVI, Dagger, Jetpack Compose, Kotest, Espresso, Detekt, Modularize, Room, Coroutine, Github Action + Codemagic CI, Github, Trunkbased development
 <br><br>
 
 **IOS Engineer (Part-time)** @ [Klikfilm](https://klikfilm.com/) _(July 2022 - January 2023)_ <br>
@@ -33,7 +47,7 @@ Social media, webtoon and novels platform.
 - Integrated WorkManager to create a service that downloads novels in the background, even if the app is closed
 - Experimented with the Jetpack Navigation component to create features with a single-activity architecture.
 - Experimented with Hilt to integrate dependency injection into the app.
-- Developed movie streaming feature in [Kwikku](https://www.kwikku.com/post/1470662) IOS app
+- Developed movie streaming feature in [Kwikku](https://www.kwikku.com) IOS app
 - **_Technologies used:_** Java, Kotlin, RxJava, MVP, MVVM, C Work Manager, Hilt, Gitlab, Gitflow development
 <br><br>
 
