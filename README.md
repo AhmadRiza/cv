@@ -7,16 +7,17 @@ _Mobile engineer based in Indonesia 🇮🇩_ <br>
 
 **Mobile Engineer** @ [JULO](https://julo.co.id/) _(Februari 2024 - Present)_ <br>
 Fintech to enable financial inclusion for Indonesia
-- Optimized Android app download size to reduce it by approximately 38.9%
-- Designed new MVI architecture with its unit test template for JULO Android app
-- Restructured Dagger dependency injection to introduce loose coupling -- API base modules
+- Optimized Android app download size to reduce it by approximately 38%
+- Designed new MVI architecture with its unit test framework for JULO Android app
+- Restructured Dagger dependency injection to introduce loose coupling -- API based modules
 - Developed an APK distribution system utilizing Firebase and Slack bot alert within CircleCI
 - Implemented APK size change in Github PR report using Emerge Tools
-- One of the most significant contributors to JULO iOS app development
+- One of the primary contributors to the JULO iOS app project
 - Implemented JULO iOS app network layer authentication system using Swift concurrency for token refreshing
 - Developed a deeplink redirection system for JULO Android and iOS apps, utilizing Appsflyer One Link
 - Initiated a unit test framework for the JULO iOS app using SwiftMock
-- **_Technologies used :_** Kotlin, MVI, Dagger, Jetpack Compose, Coroutine, Circle CI, Github, Firebase app distribution, Swift, Swift UI, Factory, SwiftMock, Core Data, Core Network
+- Set up pull request unit test workflow and code coverage report using SonarQube Scan in GitHub Actions
+- **_Technologies used :_** Kotlin, MVI, Dagger, Jetpack Compose, Coroutine, Circle CI, Github Action, SonarQube, Firebase app distribution, Swift, Swift UI, Factory, SwiftMock, Core Data, Core Network
 <br><br>
 
 **Android Engineer** @ [Kitabisa](https://kitabisa.com/) _(May 2021 - February 2024)_ <br>
